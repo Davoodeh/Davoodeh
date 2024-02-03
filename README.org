@@ -1,0 +1,8 @@
+It's about me!
+
+Visit [[https://davoodeh.ir/][davoodeh.ir]]!
+
+Here lies the source of my hasty little website with my custom terminal I did
+for it, later I'll do a rewrite.
+
+Open the website for more about me and the source (or just open the source)...
